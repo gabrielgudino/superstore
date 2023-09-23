@@ -1,2 +1,4 @@
 pandas
 pandas-profiling
+tpot
+imbalanced-learn
