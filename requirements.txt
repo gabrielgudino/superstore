@@ -1,4 +1,4 @@
 pandas
-pandas-profiling
+ydata-profiling
 tpot
 imbalanced-learn
